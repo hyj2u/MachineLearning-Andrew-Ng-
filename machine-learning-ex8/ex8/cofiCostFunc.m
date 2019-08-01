@@ -51,7 +51,7 @@ Theta_grad =((diff.*R)'*X);
 
 X_grad =X_grad + (lambda *X);
 Theta_grad =Theta_grad +(lambda*Theta);
-
+ 
 
 
 
